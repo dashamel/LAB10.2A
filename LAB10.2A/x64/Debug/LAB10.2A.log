@@ -1,0 +1,3 @@
+﻿  lab10.2A.cpp
+D:\source\repos\Student\LAB10.2A\lab10.2A.cpp(134,40): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  LAB10.2A.vcxproj -> D:\source\repos\Student\LAB10.2A\x64\Debug\LAB10.2A.exe
